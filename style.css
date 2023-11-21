@@ -1,12 +1,14 @@
-* {
+* { 
     margin: 0;
-    box-sizing: border-box; 
- }
- 
- .tiktok{
-     background-color: rgba(254,44,85,1);
-     color: white;
-     border-radius: 4px;
-     border: none;
-     font-size: 16px;
- }
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.virsraksts{
+    font-size: 48px;
+    color: #6C63FF;
+    font-weight: bold;
+}
